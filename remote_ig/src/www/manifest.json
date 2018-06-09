@@ -1,0 +1,14 @@
+{
+  "name": "insightGuru",
+  "short_name": "insightGuru",
+  "start_url": "http://iguru.mobinext.tech",
+  "display": "standalone",
+  "background_color": "#FFF",
+  "theme_color": "#89BF5C",
+  "description": "A state-of- the-art, secure, cloud-based assessment platform for user-generated content",
+  "icons": [{
+    "src": "resources/images/PWA192-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
